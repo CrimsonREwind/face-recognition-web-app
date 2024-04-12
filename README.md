@@ -46,7 +46,13 @@ Visit `http://localhost:8501` in your browser to access the web app.
 
 ![reg2](https://github.com/CrimsonREwind/face-recognition-web-app/assets/106526797/ca7f66ce-8692-48a8-8d52-2886ce75293f)
 
+![Screenshot from 2024-04-13 00-03-04](https://github.com/CrimsonREwind/face-recognition-web-app/assets/106526797/bf17c264-80fb-4e87-9bfe-a836878a766e)
+
+
 ![log](https://github.com/CrimsonREwind/face-recognition-web-app/assets/106526797/6d2284bc-6a13-4602-975a-5e1e8349105c)
+
+![Uploading Screenshot from 2024-04-13 00-05-53.png…]()
+
 
 ## Contributing
 

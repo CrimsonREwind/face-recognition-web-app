@@ -3,7 +3,7 @@ import streamlit as st
 def home():
     st.markdown("""
 
-        # Face Recognition Web App
+# Face Recognition Web App
 
 A web application using face recognition in Python with Streamlit.
 

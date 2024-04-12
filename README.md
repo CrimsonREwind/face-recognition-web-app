@@ -16,7 +16,7 @@ This project utilizes the face recognition Python module to build a web app powe
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/CrimsonREwind/face_recognition](https://github.com/CrimsonREwind/face-recognition-web-app.git)
+git clone https://github.com/CrimsonREwind/face-recognition-web-app.git
 cd face_recognition
 ```
 

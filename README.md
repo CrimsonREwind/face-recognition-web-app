@@ -41,6 +41,13 @@ Visit `http://localhost:8501` in your browser to access the web app.
 - You can use login page to see if user is registered or not
 - All the activities like login, register will be stored in log file
 
+## Screenshots
+![reg1](https://github.com/CrimsonREwind/face-recognition-web-app/assets/106526797/6e03defe-6814-4571-9a0b-1a9d927b96d0)
+
+![reg2](https://github.com/CrimsonREwind/face-recognition-web-app/assets/106526797/ca7f66ce-8692-48a8-8d52-2886ce75293f)
+
+![log](https://github.com/CrimsonREwind/face-recognition-web-app/assets/106526797/6d2284bc-6a13-4602-975a-5e1e8349105c)
+
 ## Contributing
 
 Feel free to contribute to the project! If you find bugs, have feature requests, or want to improve the code, follow these steps:

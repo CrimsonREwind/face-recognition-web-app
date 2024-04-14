@@ -1,10 +1,10 @@
 import streamlit as st
-import face_recognition as fr
+import clear
 import home
 import register
 import login
 
-homeTab, registerTab, loginTab = st.tabs(["Home", "Register", "Login"])
+homeTab, registerTab, loginTab, clear_tab = st.tabs(["Home", "Register", "Login", "Clear"])
 
 
 with homeTab:
@@ -13,3 +13,5 @@ with registerTab:
     register.register()
 with loginTab:
     login.login()
+with clear_tab:
+    clear.clear()
